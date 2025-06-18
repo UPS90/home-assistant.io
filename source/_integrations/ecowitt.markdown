@@ -38,6 +38,11 @@ The integration will display a Server IP / Host Name, Path, and Port. You can in
     - Make sure to select 'Customized: 🔘 Enable' and 'Protocol Type Same As: 🔘 Ecowitt'
     - Enter the Server IP / Host Name, Path, and Port from the integration.
     - Save
+    - Example:
+    -   Server IP / Hostname: 192.168.x.x (no HTTP)
+    -   Path: /api/webhook/xxxx
+    -   Port: 8123
+    -   Upload interval: 60
 
 ## TLS/SSL limitations
 
